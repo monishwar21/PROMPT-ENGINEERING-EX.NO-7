@@ -16,8 +16,12 @@ Procedure:
 3. Simulate natural user interaction through a simple interface or command-line system.
 4. Collect feedback or inputs from users and adapt responses accordingly.
 5. (Optional) Integrate basic memory to simulate preference adaptation.
-EXPECTED OUTPUT: - (attached the drive link)
-Output (Example Response by LLM):
+
+EXPECTED OUTPUT: - https://in.docworkspace.com/d/sIEOY87_SAu_RusoG?sa=601.1037
+
+Output (Example Response by LLM):[monishwar EX-7.docx](https://github.com/user-attachments/files/24348308/monishwar.EX-7.docx)
+
+
 Personal Productivity Assistant Features:
 1. Daily Task Manager:
 o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
